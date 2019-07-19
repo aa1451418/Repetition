@@ -1,8 +1,6 @@
 # Repetition
 repetition learn
 
-![](https://github.com/aa1451418/Repetition/blob/master/images/1563538273.jpg?raw=true)
-
 路由
 
 ```go
@@ -16,4 +14,6 @@ func init() {
 	beego.Router("/update", &controllers.MainController{}, "get:ShowUpdate;post:HandleUpdate")
 }
 ```
+
+![](https://github.com/aa1451418/Repetition/blob/master/images/1563538273.jpg?raw=true)
 
