@@ -1,7 +1,7 @@
 # Repetition
 repetition learn
 
-![](E:\GOPATH\src\repetition\images\1563538273(1).jpg)
+![](E:\GOPATH\src\repetition\images\1563538273.jpg)
 
 路由
 
