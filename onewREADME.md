@@ -1,9 +1,8 @@
 # Repetition
 repetition learn
-
-![](E:\GOPATH\src\repetition\images\1563538273(1).jpg)
-
 路由
+
+ ![image]（https://github.com/aa1451418/Repetition/blob/master/images/1563538273.jpg?raw=true）
 
 ```go
 
