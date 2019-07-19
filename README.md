@@ -17,3 +17,29 @@ func init() {
 
 ```
 
+
+
+Post获取数据
+
+![](https://github.com/aa1451418/Repetition/blob/master/images/20190719205031.png?raw=true)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
