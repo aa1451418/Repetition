@@ -1,7 +1,7 @@
 # Repetition
 repetition learn
 
-![](E:\GOPATH\src\repetition\images\1563538273.jpg)
+![](https://github.com/aa1451418/Repetition/blob/master/images/1563538273.jpg?raw=true)
 
 路由
 
